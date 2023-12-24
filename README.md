@@ -3,12 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Henrique;I'm+21+years+old;I'm+from+Brazil;I'm+a+Software+Engineer+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielHMR2002&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
-</div>
-
-
-
 
 
 
