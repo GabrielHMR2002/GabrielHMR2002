@@ -27,6 +27,9 @@
 ### Studying in this moment:
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117)&nbsp;
+
+
 
 <div align="center">
   <p align="center"><b>Visitors Count</b></p>  
