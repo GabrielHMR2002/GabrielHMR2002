@@ -27,7 +27,6 @@
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net)&nbsp;
 
 <div align="center">
-  <p><b>Visitors Count</b></p>
   <img src="https://komarev.com/ghpvc/?username=GabrielHMR2002&color=09E04A&style=for-the-badge" />
 </div>
 
